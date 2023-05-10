@@ -16,6 +16,7 @@ public class UdpSocketClient {
 
          System.out.print("aaa");
          System.out.print("mastertest");
+         System.out.print("hotfix tets");
 
      }
 }
