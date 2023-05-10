@@ -15,7 +15,7 @@ public class UdpSocketClient {
          DSocket.close();
 
          System.out.print("aaa");
-         System.out.print("aaahot");
+         System.out.print("hotfix tets");
 
      }
 }
