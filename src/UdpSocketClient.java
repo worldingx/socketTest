@@ -14,7 +14,7 @@ public class UdpSocketClient {
          DSocket.send(datagramPacket);
          DSocket.close();
 
-
+         System.out.print("aaa");
 
      }
 }
