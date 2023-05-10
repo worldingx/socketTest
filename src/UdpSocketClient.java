@@ -20,5 +20,6 @@ public class UdpSocketClient {
          System.out.print("push tets");
            System.out.print("push tets pull");
            System.out.print("push tets pull");
+         System.out.print("push tets pull");
      }
 }
